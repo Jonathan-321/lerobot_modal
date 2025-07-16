@@ -1,0 +1,6 @@
+modal
+torch
+transformers
+optimum[exporters]
+lerobot   # LeRobot library
+onnxruntime  # To test the ONNX model in cloud
